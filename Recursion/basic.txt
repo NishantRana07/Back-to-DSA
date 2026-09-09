@@ -1,0 +1,9 @@
+## Recursion topic 
+
+### Recursion is process in which a function calls itself.
+
+## For ex- Factorial of 5 = 5! but it same as - n*(n-1)=1 if n=0, and n*(n-1) if n>0
+
+```C++
+
+```
